@@ -1,2 +1,2 @@
-# otus
-Otus homework repository
+# Otus homework
+###### Author: Vyacheslav Lyagusha
