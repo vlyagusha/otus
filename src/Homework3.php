@@ -2,6 +2,8 @@
 
 declare(strict_types=1);
 
+namespace Otus;
+
 class Homework3
 {
     public function sayHelloWorld(): string
